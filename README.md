@@ -1,6 +1,6 @@
 # LLWH_PS4
-##Group Member:
-Junlin Wang
-Renbin Liu
-Mengting Li
-Wenxin Hu
+##Group Member:\t
+Junlin Wang\t
+Renbin Liu\t
+Mengting Li\t
+Wenxin Hu\t
